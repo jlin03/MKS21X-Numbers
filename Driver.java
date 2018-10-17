@@ -10,7 +10,7 @@ public class Driver {
 
 
 		RationalNumber rational0 = new RationalNumber(22,90);
-		RationalNumber rational1 = new RationalNumber(6,30);
+		RationalNumber rational1 = new RationalNumber(6,29);
 
 		System.out.println(rational0.add(rational1));
 		System.out.println(rational0.subtract(rational1));
